@@ -1,6 +1,14 @@
 # Excel-Data:
 
-Excel Data view in Different Format PDF, Excel
+Excel Data view in Different Format PDF, Excel, CSV with Filter search criteria posted on cloud. Access anywhere.
+
+  ```
+    'copyHtml5',
+    'excelHtml5',
+    'csvHtml5',
+    'pdfHtml5'
+           
+ ```
 
 https://starwalt.github.io/Excel-Data/
 
